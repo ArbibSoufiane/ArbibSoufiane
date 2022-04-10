@@ -44,15 +44,11 @@
 
 
 
+<img align="center" src="https://github-readme-stats-six-mu.vercel.app/api/top-langs?username=arbibsoufiane&show_icons=true&locale=en&hide=css,html&layout=compact&theme=dark" alt="arbibsoufiane" />
 
+<img align="center" src="https://github-readme-stats-six-mu.vercel.app/api?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars," alt="arbibsoufiane" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-six-mu.vercel.app/api/top-langs?username=arbibsoufiane&show_icons=true&locale=en&hide=css,html&layout=compact&theme=dark" alt="arbibsoufiane" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-six-mu.vercel.app/api?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars," alt="arbibsoufiane" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbibsoufiane&theme=dark" alt="arbibsoufiane" /></p>
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbibsoufiane&theme=dark" alt="arbibsoufiane" />
 
 
 ### 📝 Statistics:
