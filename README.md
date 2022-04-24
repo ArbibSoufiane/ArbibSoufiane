@@ -242,13 +242,13 @@
 
 <img
   align="center"
-  src="https://github-readme-stats-six-mu.vercel.app/api/top-langs?username=arbibsoufiane&show_icons=true&locale=en&hide=css,html&layout=compact&theme=dark"
+  src="https://github-readme-stats-six-mu.vercel.app/api/top-langs?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&langs_count=10&hide=css,html,blade,less,scss&layout=compact"
   alt="arbibsoufiane"
 />
 
 <img
   align="center"
-  src="https://github-readme-stats-six-mu.vercel.app/api?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars,"
+  src="https://github-readme-stats-six-mu.vercel.app/api?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars"
   alt="arbibsoufiane"
 />
 
