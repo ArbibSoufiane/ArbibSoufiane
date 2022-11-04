@@ -16,8 +16,7 @@
 
 - 🌱 I’m learning **Games development** & having fun spending my time in blender
 - ⚡ Fun fact: I'm a **Left-Handed** Dude
-- 📫 You can reach me at <a href="mailto:arbib.soufian@gmail.com">arbib.soufian@gmail.com</a> or <a href="[mailto:arbib.soufian@gmail.com](https://www.linkedin.com/in/arbib-soufiane/)">Linkedin</a>
-
+- 📫 You can reach me at <a href="mailto:arbib.soufian@gmail.com">arbib.soufian@gmail.com</a> or <a href="https://www.linkedin.com/in/arbib-soufiane/">Linkedin</a>
 
 <h3 align="left">📦Languages and Tools:</h3>
 <p align="center">
