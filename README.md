@@ -2,30 +2,25 @@
   <img src="./hi.gif" width="25px"> Hello World, I'm Arbib Soufiane
 </h1>
 
-<p style="text-align:center">
+<p align="center">
 <img
   align="center"
-  src="./IMG_1580.jpg"
+  src="./arbib_cover.jpeg"
   alt="arbibsoufiane"
-  style="width:90%;text-align:center"
+  style="width:25%;text-align:center"
 />
 </p>
 
-<h3 align="center">A Curiosity-Driven Full Stack Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 
+- 🌱 I’m learning **Games development** & having fun spending my time in blender
+- ⚡ Fun fact: I'm a **Left-Handed** Dude
+- 📫 You can reach me at <a href="mailto:arbib.soufian@gmail.com">arbib.soufian@gmail.com</a> or <a href="[mailto:arbib.soufian@gmail.com](https://www.linkedin.com/in/arbib-soufiane/)">Linkedin</a>
 
-- 🔭 I’m currently working on **my own next big thing** 
-- 🌱 I’m currently learning **MERN Stack** 
-- 👨‍💻 All of my projects are available at [http://arbibsoufiane.com/](http://arbibsoufiane.com/) 
-- ⚡ Fun fact: I'm a Left-Handed Dude
 
-- 📫 How to reach me **arbib.soufian@gmail.com** 
-
-- 📄 Know about my experiences [http://arbibsoufiane.com/](http://arbibsoufiane.com/)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left">📦Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -220,46 +215,8 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/soufianearbib" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="soufianearbib"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/arbib-soufiane" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="arbib-soufiane"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<img
-  align="center"
-  src="https://github-readme-stats-six-mu.vercel.app/api/top-langs?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&langs_count=10&hide=css,html,blade,less,scss&layout=compact"
-  alt="arbibsoufiane"
-/>
-
-<img
-  align="center"
-  src="https://github-readme-stats-six-mu.vercel.app/api?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars"
-  alt="arbibsoufiane"
-/>
-
-<img
-  align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=arbibsoufiane&theme=dark"
-  alt="arbibsoufiane"
-/>
 
 ### 📝 Statistics:
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=arbibsoufiane&label=Profile%20views&color=0e75b6&style=flat"
@@ -268,3 +225,27 @@
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/cc199dd9-98ea-47bf-b184-ce6dd202d8a5.svg)](https://wakatime.com/@cc199dd9-98ea-47bf-b184-ce6dd202d8a5)
+
+
+
+<p align="center">
+<img
+  src="https://github-readme-stats-six-mu.vercel.app/api/top-langs?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&langs_count=10&hide=css,html,blade,less,scss&layout=compact"
+  alt="arbibsoufiane"
+/>
+</p>
+<p align="center">
+<img
+  src="https://github-readme-stats-six-mu.vercel.app/api?username=arbibsoufiane&show_icons=true&locale=en&theme=dark&count_private=true&hide=stars"
+  alt="arbibsoufiane"
+/>
+</p>
+<p align="center">
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=arbibsoufiane&theme=dark"
+  alt="arbibsoufiane"
+/>
+</p>
+
+
+
