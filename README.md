@@ -1,13 +1,9 @@
-<h1 align="center">
-  <img src="./hi.gif" width="25px"> Hello World, I'm Arbib Soufiane
-</h1>
-
 <p align="center">
 <img
   align="center"
-  src="./arbib_cover.jpeg"
+  src="https://github.com/ArbibSoufiane/ArbibSoufiane/blob/main/Blue%20Illustrated%20Technology%20General%20LinkedIn%20Banner%20(1).gif"
   alt="arbibsoufiane"
-  style="width:25%;text-align:center"
+  style="width:100%;"
 />
 </p>
 
@@ -15,7 +11,7 @@
 
 
 - 🌱 I’m learning **Games development** & having fun spending my time in blender
-- ⚡ Fun fact: I'm a **Left-Handed** Dude
+- ⚡ Fact About me: I'm **Left-Handed**
 - 📫 You can reach me at <a href="mailto:arbib.soufian@gmail.com">arbib.soufian@gmail.com</a> or <a href="https://www.linkedin.com/in/arbib-soufiane/">Linkedin</a>
 
 <h3 align="left">📦Languages and Tools:</h3>
